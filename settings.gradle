@@ -1,0 +1,3 @@
+rootProject.name = 'Mpp204'
+include ':androidApp', ':shared'
+
